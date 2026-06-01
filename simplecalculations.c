@@ -11,6 +11,7 @@ int main()
     printf("subtraction (a-b) = %d\n",a-b);
     printf("Multiplication (a*b) = %d\n",a*b);
     printf("Division (a/b) = %d\n",a/b);
+    printf("hello");
 
 
 
